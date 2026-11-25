@@ -126,7 +126,8 @@ p {
 ```
 # OUTPUT
 <img width="1014" height="381" alt="image" src="https://github.com/user-attachments/assets/ae38aeb3-a6a5-4810-a7ec-58a6980262c2" />
-<img width="1030" height="412" alt="image" src="https://github.com/user-attachments/assets/7dcfe2b5-0a57-412a-935c-aeee3aa4ab24" />
+<img width="1640" height="656" alt="image" src="https://github.com/user-attachments/assets/3626c23d-1c64-4854-b3ef-6113564e4893" />
+
 
 # RESULT
 Thus, a React application was developed successfully to simulate an asynchronous student-data operation using JavaScript Promises. The application displays a loading message during the operation and handles successful results and errors using .then(), .catch(), and .finally().
